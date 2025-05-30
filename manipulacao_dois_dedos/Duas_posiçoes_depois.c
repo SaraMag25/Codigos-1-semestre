@@ -5,7 +5,7 @@
 
 int L[N] = {1,2,3,4,5,6,7,8,9,10};
 int resp;
-
+// -- escreva seu código abaixo dessa linha --- (e não altere esta linha)
 int main() {
     resp = 0; 
 
@@ -18,6 +18,4 @@ int main() {
     }
 
     printf("%d\n", resp);
-
-    return 0;
 }

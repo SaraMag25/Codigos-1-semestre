@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#define N 10
+#define N 14
 
-int L[N] = {1,2,3,4,5,6,7,8,9,10};
+int L[N] = {97,5, 1, 88, 4, 1, 66, 11, 35, 98, 28, 91, 40, 1};
 
 int resp;
 
